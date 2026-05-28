@@ -1,0 +1,1 @@
+// Route /assistant for conversational AI view

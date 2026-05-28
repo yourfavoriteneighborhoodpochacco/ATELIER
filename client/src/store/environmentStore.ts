@@ -1,0 +1,1 @@
+// Room state, object positions, confidence map
